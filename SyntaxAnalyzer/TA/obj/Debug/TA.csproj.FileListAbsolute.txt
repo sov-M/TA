@@ -1,0 +1,41 @@
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\TA.csproj.GenerateResource.cache
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\TA.csproj.CoreCompileInputs.cache
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\ThePr\OneDrive\Рабочий стол\Теория Автоматов\Цыг\Цыганова\SyntaxAnalyzer\SyntaxAnalyzer\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.AssemblyReference.cache
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.GenerateResource.cache
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\Виталий\Desktop\Софт\Курсачи по ТА\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.AssemblyReference.cache
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.GenerateResource.cache
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\Виталий\Desktop\Софт\Мусор\Екатерина Белоусова\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.exe
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.pdb
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.exe.config
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.exe
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\bin\Debug\SyntaxAnalyzer.pdb
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.AssemblyReference.cache
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.Form1.resources
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\obj\Debug\SyntaxAnalyzer.Properties.Resources.resources
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.GenerateResource.cache
+C:\Users\maxim\Desktop\stud\kurs\SyntaxAnalyzer\TA\obj\Debug\TA.csproj.CoreCompileInputs.cache

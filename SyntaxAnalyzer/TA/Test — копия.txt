@@ -1,0 +1,17 @@
+int testIndex, startIndex, finalIndex
+float ver
+startIndex := 9000.1d:
+finalIndex := 231d:
+ver := 1e2:
+
+readln testIndex, finalIndex, startIndex:
+
+
+for testIndex := 0d to startIndex != 100d 
+if (testIndex < finalIndex)
+finalIndex := testIndex
+else startIndex := testIndex:
+
+while (startIndex != 21d
+writeln startIndex - 31d , finalIndex + 999d: 
+end
